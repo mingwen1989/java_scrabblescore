@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleScoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-19T15:27:04" hostname="epicodus-39.local" time="0.0">
+  <properties/>
+  <testcase name="isScrabbleScore_forLetterValue1_true" classname="ScrabbleScoreTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
