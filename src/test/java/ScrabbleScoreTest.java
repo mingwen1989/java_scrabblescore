@@ -4,7 +4,9 @@ import static org.junit.Assert.*;
 public class ScrabbleScoreTest {
 
   @Test
-  public void isScrabbleScore_forLetterValue1_true() {
-    
+  public void calculateScore_returnsScoreForSingleLetter_1() {
+    ScrabbleScore testScrabble = new ScrabbleScore();
+    Integer expected = 1;
+    assertEquals(expected, testScrabble.calculateScore("A"));
   }
 }
