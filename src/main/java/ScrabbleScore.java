@@ -24,6 +24,19 @@ public class ScrabbleScore {
     scrabbleArray.put('D', 2);
     scrabbleArray.put('G', 2);
     scrabbleArray.put('B', 3);
+    scrabbleArray.put('C', 3);
+    scrabbleArray.put('M', 3);
+    scrabbleArray.put('P', 3);
+    scrabbleArray.put('F', 4);
+    scrabbleArray.put('H', 4);
+    scrabbleArray.put('V', 4);
+    scrabbleArray.put('W', 4);
+    scrabbleArray.put('Y', 4);
+    scrabbleArray.put('K', 5);
+    scrabbleArray.put('J', 8);
+    scrabbleArray.put('X', 8);
+    scrabbleArray.put('Q', 10);
+    scrabbleArray.put('Z', 10);
 
     for (char letter : inputArray){
       value += scrabbleArray.get(letter);
