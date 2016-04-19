@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ScrabbleScoreTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-19T16:54:07" hostname="epicodus-39.local" time="0.001">
+<testsuite name="ScrabbleScoreTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-19T17:05:41" hostname="epicodus-39.local" time="0.002">
   <properties/>
   <testcase name="calculateScore_returnsScoreForSingleLetter_1" classname="ScrabbleScoreTest" time="0.001"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_2" classname="ScrabbleScoreTest" time="0.0"/>
+  <testcase name="calculateScore_returnsScoreForSingleLetter_3" classname="ScrabbleScoreTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
